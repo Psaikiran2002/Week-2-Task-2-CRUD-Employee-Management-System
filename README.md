@@ -81,8 +81,6 @@ On the first run the app loads 6 sample employees (IDs 1 to 6) so the table is n
 
 ### Main page and search tools
 
-| Home | Search | Filter by department |
-|------|--------|----------------------|
 screenshots/01-home.png 
 screenshots/02-search.png 
 screenshots/03-filter-department.png
@@ -93,8 +91,6 @@ screenshots/04-sort-salary.png
 
 ### Add employee
 
-| Empty form | Validation errors | Filled form |
-|------------|-------------------|-------------|
 screenshots/05-add-form-empty.png
 screenshots/06-validation-errors.png 
 screenshots/07-add-form-filled.png
@@ -102,23 +98,16 @@ screenshots/08-employee-added.png
 
 ### Edit employee
 
-| Edit form | Employee updated |
-|-----------|------------------|
+
 screenshots/09-edit-form.png
 screenshots/10-employee-updated.png
 
 ### Delete employee
-
-| Confirmation popup | Employee deleted |
-|--------------------|------------------|
 screenshots/11-delete-confirmation.png 
 screenshots/12-employee-deleted.png
 
 ### Mobile and dark mode
 
-| Mobile view | Dark mode |
-|-------------|-----------|
-| <img src="screenshots/13-mobile-view.png" width="250" alt="Mobile view" /> 
 screenshots/14-dark-mode.png
 
 ## Notes and Limitations
