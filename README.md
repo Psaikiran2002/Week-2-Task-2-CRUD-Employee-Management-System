@@ -132,5 +132,5 @@ On the first run the app loads 6 sample employees (IDs 1 to 6) so the table is n
  ## GITHUB-HUB LINK
 
 ## LIVE PROJECT LINK
-   [text](https://claude.ai/artifact/9SP/phsirFD9aPZpgmdybW1)
+   https://claude.ai/artifact/9SP/phsirFD9aPZpgmdybW1
    
