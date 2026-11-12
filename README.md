@@ -83,37 +83,43 @@ On the first run the app loads 6 sample employees (IDs 1 to 6) so the table is n
 
 | Home | Search | Filter by department |
 |------|--------|----------------------|
-| ![Home](screenshots/01-home.png) | ![Search](screenshots/02-search.png) | ![Filter](screenshots/03-filter-department.png) |
+screenshots/01-home.png 
+screenshots/02-search.png 
+screenshots/03-filter-department.png
 
 ### Sorting
 
-![Sort by salary](screenshots/04-sort-salary.png)
+screenshots/04-sort-salary.png
 
 ### Add employee
 
 | Empty form | Validation errors | Filled form |
 |------------|-------------------|-------------|
-| ![Add form](screenshots/05-add-form-empty.png) | ![Validation](screenshots/06-validation-errors.png) | ![Filled](screenshots/07-add-form-filled.png) |
-
-![Employee added](screenshots/08-employee-added.png)
+screenshots/05-add-form-empty.png
+screenshots/06-validation-errors.png 
+screenshots/07-add-form-filled.png
+screenshots/08-employee-added.png
 
 ### Edit employee
 
 | Edit form | Employee updated |
 |-----------|------------------|
-| ![Edit form](screenshots/09-edit-form.png) | ![Updated](screenshots/10-employee-updated.png) |
+screenshots/09-edit-form.png
+screenshots/10-employee-updated.png
 
 ### Delete employee
 
 | Confirmation popup | Employee deleted |
 |--------------------|------------------|
-| ![Confirm delete](screenshots/11-delete-confirmation.png) | ![Deleted](screenshots/12-employee-deleted.png) |
+screenshots/11-delete-confirmation.png 
+screenshots/12-employee-deleted.png
 
 ### Mobile and dark mode
 
 | Mobile view | Dark mode |
 |-------------|-----------|
-| <img src="screenshots/13-mobile-view.png" width="250" alt="Mobile view" /> | ![Dark mode](screenshots/14-dark-mode.png) |
+| <img src="screenshots/13-mobile-view.png" width="250" alt="Mobile view" /> 
+screenshots/14-dark-mode.png
 
 ## Notes and Limitations
 
@@ -130,7 +136,8 @@ On the first run the app loads 6 sample employees (IDs 1 to 6) so the table is n
 - Add login and user roles
  
  ## GITHUB-HUB LINK
-
+    https://psaikiran2002.github.io/Week-2-Task-2-CRUD-Employee-Management-System/
+    
 ## LIVE PROJECT LINK
    https://claude.ai/artifact/9SP/phsirFD9aPZpgmdybW1
    
