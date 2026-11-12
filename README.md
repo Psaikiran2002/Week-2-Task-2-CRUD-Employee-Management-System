@@ -128,5 +128,5 @@ screenshots/14-dark-mode.png
     https://psaikiran2002.github.io/Week-2-Task-2-CRUD-Employee-Management-System/
     
 ## LIVE PROJECT LINK
-   [https://claude.ai/artifact/9SP/phsirFD9aPZpgmdybW1](https://claude.ai/artifact/Tpr97NkEPsugy9C9Tjcxyh)
+  (https://claude.ai/artifact/Tpr97NkEPsugy9C9Tjcxyh)
    
