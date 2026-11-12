@@ -41,7 +41,7 @@ No installation is needed.
 - The app loads 6 sample employees the first time it runs.
 
 - ### GITHUB LINK
-
+  https://psaikiran2002.github.io/Week-2-Task-2-CRUD-Employee-Management-System/
 - ### PROJECT LIVE LINK
 
 https://claude.ai/artifact/9SPphsirFd9aPZpgmdybW1
