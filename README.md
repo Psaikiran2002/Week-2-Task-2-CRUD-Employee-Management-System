@@ -43,3 +43,6 @@ Open `frontend/index.html` using VS Code Live Server (or any static HTTP server)
 
 ### GITHUB LINK
  https://psaikiran2002.github.io/Week-2-Task-2-CRUD-Employee-Management-System/
+
+### PROJECT LIVE LINK
+ https://claude.ai/artifact/9SPphsirFd9aPZpgmdybW1
