@@ -39,3 +39,10 @@ No installation is needed.
 - Data lives only in your browser, so it is not shared between browsers or devices.
 - Clear it by deleting the `hr_employees_v1` key from localStorage.
 - The app loads 6 sample employees the first time it runs.
+
+- ### GITHUB LINK
+
+- ### PROJECT LIVE LINK
+
+https://claude.ai/artifact/9SPphsirFd9aPZpgmdybW1
+
