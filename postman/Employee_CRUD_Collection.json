@@ -1,0 +1,87 @@
+{
+  "info": {
+    "name": "Employee Management CRUD API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get All Employees",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:5000/api/employees",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["api", "employees"]
+        }
+      }
+    },
+    {
+      "name": "Get Employee by ID",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:5000/api/employees/1",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["api", "employees", "1"]
+        }
+      }
+    },
+    {
+      "name": "Create Employee",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"Karthik Reddy\",\n  \"department\": \"Engineering\",\n  \"role\": \"Full Stack Developer\",\n  \"salary\": 1350000,\n  \"join_date\": \"2025-02-01\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/employees",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["api", "employees"]
+        }
+      }
+    },
+    {
+      "name": "Update Employee",
+      "request": {
+        "method": "PUT",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"Karthik Reddy\",\n  \"department\": \"Engineering\",\n  \"role\": \"Senior Full Stack Developer\",\n  \"salary\": 1550000,\n  \"join_date\": \"2025-02-01\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/employees/1",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["api", "employees", "1"]
+        }
+      }
+    },
+    {
+      "name": "Delete Employee",
+      "request": {
+        "method": "DELETE",
+        "url": {
+          "raw": "http://localhost:5000/api/employees/1",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "5000",
+          "path": ["api", "employees", "1"]
+        }
+      }
+    }
+  ]
+}
