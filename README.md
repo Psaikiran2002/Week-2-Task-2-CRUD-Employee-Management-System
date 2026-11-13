@@ -81,33 +81,33 @@ On the first run the app loads 6 sample employees (IDs 1 to 6) so the table is n
 
 ### Main page and search tools
 
-[home](screenshots/01-home.png )
-[search](screenshots/02-search.png) 
-[filter department](screenshots/03-filter-department.png)
+[01-home](screenshots/01-home.png )
+[02-search](screenshots/02-search.png) 
+[03-filter-department](screenshots/03-filter-department.png)
 
 ### Sorting
 
-[sorting](screenshots/04-sort-salary.png)
+[04-sorting-salary](screenshots/04-sort-salary.png)
 
 ### Add employee
 
-[add form empty](screenshots/05-add-form-empty.png)
-[validation errors](screenshots/06-validation-errors.png) 
-[add form filled](screenshots/07-add-form-filled.png)
-[employee added](screenshots/08-employee-added.png)
+[05-add-form-empty](screenshots/05-add-form-empty.png)
+[06-validation-errors](screenshots/06-validation-errors.png) 
+[07-add-form-filled](screenshots/07-add-form-filled.png)
+[08-employee-added](screenshots/08-employee-added.png)
 
 ### Edit employee
 
-[edit form](screenshots/09-edit-form.png)
+[09-edit-form](screenshots/09-edit-form.png)
 [employee updated](screenshots/10-employee-updated.png)
 
 ### Delete employee
-[delete conformation](screenshots/11-delete-confirmation.png) 
-[employee deleted](screenshots/12-employee-deleted.png)
+[11-delete-conformation](screenshots/11-delete-confirmation.png) 
+[12-employee-deleted](screenshots/12-employee-deleted.png)
 
 ### Mobile and dark mode
 
-[dark mode](screenshots/14-dark-mode.png)
+[14-dark-mode](screenshots/14-dark-mode.png)
 
 ## Notes and Limitations
 
